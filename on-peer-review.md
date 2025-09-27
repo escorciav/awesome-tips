@@ -34,6 +34,6 @@
 
    Date: June 2020
 
-1. [Reviewing the Review Process @ ICCV2021 PCs, ACs & Co](https://www.youtube.com/watch?v=9Y7NCdKdNyE) 📽️🎞️, [site](https://sites.google.com/view/reviewing-the-review-process/)´
+1. [Reviewing the Review Process @ ICCV2021 PCs, ACs & Co](https://www.youtube.com/watch?v=9Y7NCdKdNyE) 📽️🎞️, [site](https://sites.google.com/view/reviewing-the-review-process/)
 
     Date: October 2021
