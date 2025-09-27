@@ -33,3 +33,7 @@
 1. [Inside the Decision Process of CVPR 2020 by Greg Mori](https://drive.google.com/file/d/1N6BHIOR51R5mcwQ7Qsgv2tpGaV_rfXrF/view)
 
    Date: June 2020
+
+1. [Reviewing the Review Process @ ICCV2021 PCs, ACs & Co](https://www.youtube.com/watch?v=9Y7NCdKdNyE) 📽️🎞️, [site](https://sites.google.com/view/reviewing-the-review-process/)´
+
+    Date: October 2021
